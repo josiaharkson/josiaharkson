@@ -1,7 +1,6 @@
-### Hi there 👋
 
 <!--
-**josiaharkson/josiaharkson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nicubarbaros/nicubarbaros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## 👋 Hello, I'm Josiah !
+I'm a software developer in Abuja, Nigeria. Front End Enthusiast |
+Hackathon Fanatic | Also I love chess ♔ ♚.
+
+ 
+ 
+
+### 📫 Get in touch
+- 📧 You can reach me at [GMAIL](arksonjosiah@gmail.com) or [Linkedin](https://www.linkedin.com/in/josiah-arkson/)
