@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 ### I'm a self-taught Programmer. I like to build performant applications and find more inventive ways to use JavaScript and TypeScript. 👽
 
-- 🔭 I’m currently working on a ...
-- 🌱 I’m currently learning ..
-- 👯 I’m looking to collaborate on open source
+
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about anything in my repositories and i promise you a good nerdy chat.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/josiah-arkson/)
