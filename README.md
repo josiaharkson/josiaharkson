@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about anything in my repositories and i promise you a good nerdy chat.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/josiah-arkson/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I cook :)
 
 <br />
 
